@@ -33,6 +33,14 @@
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
 
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        messageStyle: 'none',tex2jax: {
+            preview: 'none'
+        }
+    });
+</script>
+
     </head>
 
     <body>
@@ -52,7 +60,7 @@
         <button class="submit" class="btn" onclick="quad_equation()">Consult Quadratic Formula</button></div>
     </div>
 
-    <p class="solution_display" id="solutions">$x$</p> 
+    <p class="solution_display" id="solutions"></p> 
 
     <script>
     function jax(){
