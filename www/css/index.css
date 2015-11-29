@@ -1,0 +1,84 @@
+header{
+    height: 100%;
+    text-align: center;
+
+}
+
+img{
+    margin: auto;
+    float: left;
+}
+
+input{
+    font-size: 100%;
+    text-align: right;
+    width: 5em;
+}
+
+body{
+    /*background-color: #e3e3e3;*/
+    background-color: #FFD464;
+}
+
+input, textarea{
+    background-color: #F4F4F2;
+    color: #30302F;
+}
+
+
+
+.navbar-default {
+    background-color: #1253A4;
+    border-color: #1253A4;
+}
+
+.navbar-default .navbar-brand {
+    color: #F4F4F2;
+    font-size: 200%;
+}
+
+.navbar .nav  > li > a {
+    color:  #F4F4F2;
+}
+
+.line{
+    display: inline;
+}
+
+.equation{
+    color: #30302F;
+    font-size: 120%;
+    text-align:center;
+    margin:auto;
+    margin-top: 200px;
+}
+
+.quad_submit{
+    text-align:center;
+    margin:auto;
+    margin-top: 30px;
+}
+
+.solution_display{
+    color: #30302F;
+    font-size: 200%;
+    text-align:center;
+    margin:auto;
+    margin-top: 20px;
+}
+
+#wizhat{
+   position: relative;
+   top: 50%;
+   left: 50%;
+   width: 180px;
+   height: 180px;
+   margin-top: -195px;
+   margin-left: -90px;
+}
+
+@media (max-width: 500px){
+    input{
+        width: 3em;
+    }
+}
