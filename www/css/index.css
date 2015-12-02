@@ -1,13 +1,25 @@
+.arg-input{
+    text-align: right;
+    width: 50px;
+    display:inline-block;
+    border: none;
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+}
+
+.eq-pics{
+    border: none;
+    margin: 0;
+    padding: 0;
+}
+
+
 header{
     height: 100%;
     text-align: center;
-
 }
 
-img{
-    margin: auto;
-    float: left;
-}
 
 input{
     font-size: 100%;
@@ -27,30 +39,27 @@ input, textarea{
 
 
 
-.navbar-default {
-    background-color: #1253A4;
-    border-color: #1253A4;
-}
-
-.navbar-default .navbar-brand {
-    color: #F4F4F2;
-    font-size: 200%;
-}
-
-.navbar .nav  > li > a {
-    color:  #F4F4F2;
-}
-
 .line{
-    display: inline;
+    display:inline-block;
 }
 
 .equation{
+    position: inline;
+    text-align: center;
     color: #30302F;
     font-size: 120%;
-    text-align:center;
-    margin:auto;
-    margin-top: 200px;
+}
+
+.op_btn{
+    vertical-align: center;
+    background-color: transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    font-size: 200%;
+    margin: 0;
+    padding: 0;
 }
 
 .quad_submit{
@@ -68,13 +77,10 @@ input, textarea{
 }
 
 #wizhat{
-   position: relative;
-   top: 50%;
-   left: 50%;
-   width: 180px;
-   height: 180px;
-   margin-top: -195px;
-   margin-left: -90px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
 }
 
 @media (max-width: 500px){

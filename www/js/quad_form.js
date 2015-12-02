@@ -1,7 +1,3 @@
-
-
-
-
 function get_nums(){
     var a = parseFloat(document.getElementById("a").value);
     var b = parseFloat(document.getElementById("b").value);
@@ -220,7 +216,7 @@ function sol_string(arg,which){
                 }
                 //sqrt*(i)/den
                 else{
-                    return "\\frac{" + oper + "\\sqrt(" + arg[2] + "}" + has_i + "}{" + arg[4] + "}";
+                    return "\\frac{" + oper + "\\sqrt{" + arg[2] + "}" + has_i + "}{" + arg[4] + "}";
                 }
             }
         }

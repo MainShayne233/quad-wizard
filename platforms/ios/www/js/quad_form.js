@@ -1,10 +1,3 @@
-
-function jax(){
-    MathJax.Hub.Queue(["Typeset",MathJax.Hub]);
-}
-window.onload = jax();
-
-
 function get_nums(){
     var a = parseFloat(document.getElementById("a").value);
     var b = parseFloat(document.getElementById("b").value);
@@ -223,7 +216,7 @@ function sol_string(arg,which){
                 }
                 //sqrt*(i)/den
                 else{
-                    return "\\frac{" + oper + "\\sqrt(" + arg[2] + "}" + has_i + "}{" + arg[4] + "}";
+                    return "\\frac{" + oper + "\\sqrt{" + arg[2] + "}" + has_i + "}{" + arg[4] + "}";
                 }
             }
         }
@@ -361,6 +354,9 @@ function nan_input(nums){
 
 //sqrt_prop[neg_pos_zero,[coe, sqrt]]
 function quad_equation() {
+    
+    document.getElementById('solutions').style.visibility = "hidden";
+
     var nums = get_nums();
 
     if (isNaN(nums[0]) || isNaN(nums[1]) || isNaN(nums[2])){
@@ -370,25 +366,26 @@ function quad_equation() {
     else if (nums[0] == 0){
         var sol = not_quad(nums);
         document.getElementById("solutions").innerHTML = sol;
-        MathJax.Hub.Queue(["Typeset",MathJax.Hub]);
     }
     else{
         var sqrt = inner_sqrt_value(nums);
         var sqrt_prop = sqrt_properties(sqrt);
         var sol1 = sol_form(nums,sqrt_prop,1);  
         var sol2 = sol_form(nums,sqrt_prop,-1);
-        //alert(sol1);
-        //alert(sol2);
         var sol1_string = sol_string(sol1,1);
         var sol2_string = sol_string(sol2,-1);
         if (sol1_string == sol2_string){
             document.getElementById("solutions").innerHTML = "<br>Soluton: \\(x =" + sol1_string + "\\)";
-        MathJax.Hub.Queue(["Typeset",MathJax.Hub]);
         }
         else{
             document.getElementById("solutions").innerHTML = "<br>Soluton 1: \\(x=" + sol1_string + "\\)" + "<br><br><br>Solution 2:   \\(x=" + sol2_string + "\\)";
-            MathJax.Hub.Queue(["Typeset",MathJax.Hub]);
         }
     }
+    MathJax.Hub.Queue(
+        ["Typeset",MathJax.Hub],
+        function () {
+            document.getElementById('solutions').style.visibility = "";
+    }
+  );
     
 }
