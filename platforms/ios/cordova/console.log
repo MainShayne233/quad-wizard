@@ -1,0 +1,187 @@
+2015-12-02 12:10:07.801 Quadratic Wizard[3828:389019] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Data/Application/54D39E6C-FC33-4888-9493-383ED21C4FED/Library/Cookies/com.tremblay.quadwiz.binarycookies
+2015-12-02 12:10:08.338 Quadratic Wizard[3828:389019] Apache Cordova native platform version 3.9.2 is starting.
+2015-12-02 12:10:08.339 Quadratic Wizard[3828:389019] Multi-tasking -> Device: YES, App: YES
+2015-12-02 12:10:08.360 Quadratic Wizard[3828:389019] Unlimited access to network resources
+2015-12-02 12:10:08.376 Quadratic Wizard[3828:389019] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-12-02 12:10:09.556 Quadratic Wizard[3828:389019] Resetting plugins due to page load.
+2015-12-02 12:10:10.141 Quadratic Wizard[3828:389019] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/43DA5CDE-70A2-4C0A-9ED4-98F1828D1AD2/Quadratic%20Wizard.app/www/index.html
+2015-12-02 12:10:56.944 Quadratic Wizard[3925:390975] Apache Cordova native platform version 3.9.2 is starting.
+2015-12-02 12:10:56.946 Quadratic Wizard[3925:390975] Multi-tasking -> Device: YES, App: YES
+2015-12-02 12:10:56.965 Quadratic Wizard[3925:390975] Unlimited access to network resources
+2015-12-02 12:10:56.969 Quadratic Wizard[3925:390975] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-12-02 12:10:57.098 Quadratic Wizard[3925:390975] Resetting plugins due to page load.
+2015-12-02 12:10:57.376 Quadratic Wizard[3925:390975] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/79404670-DD01-4AFA-ADEC-A820184BA921/Quadratic%20Wizard.app/www/index.html
+2015-12-02 12:11:33.594 Quadratic Wizard[4093:392989] Apache Cordova native platform version 3.9.2 is starting.
+2015-12-02 12:11:33.595 Quadratic Wizard[4093:392989] Multi-tasking -> Device: YES, App: YES
+2015-12-02 12:11:33.619 Quadratic Wizard[4093:392989] Unlimited access to network resources
+2015-12-02 12:11:33.623 Quadratic Wizard[4093:392989] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-12-02 12:11:33.737 Quadratic Wizard[4093:392989] Resetting plugins due to page load.
+2015-12-02 12:11:34.485 Quadratic Wizard[4093:392989] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/0E3ECFBD-4C4F-4FF2-A916-5EE9A4173A35/Quadratic%20Wizard.app/www/index.html
+2015-12-02 12:47:23.258 Quadratic Wizard[6076:429940] Apache Cordova native platform version 3.9.2 is starting.
+2015-12-02 12:47:23.259 Quadratic Wizard[6076:429940] Multi-tasking -> Device: YES, App: YES
+2015-12-02 12:47:23.261 Quadratic Wizard[6076:429940] Unlimited access to network resources
+2015-12-02 12:47:23.265 Quadratic Wizard[6076:429940] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-12-02 12:47:23.366 Quadratic Wizard[6076:429940] Resetting plugins due to page load.
+2015-12-02 12:47:23.995 Quadratic Wizard[6076:429940] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/AD776324-0CB6-496E-9CE7-CED1388F46FD/Quadratic%20Wizard.app/www/index.html
+2015-12-02 12:48:21.834 Quadratic Wizard[6181:432135] Apache Cordova native platform version 3.9.2 is starting.
+2015-12-02 12:48:21.836 Quadratic Wizard[6181:432135] Multi-tasking -> Device: YES, App: YES
+2015-12-02 12:48:21.838 Quadratic Wizard[6181:432135] Unlimited access to network resources
+2015-12-02 12:48:21.842 Quadratic Wizard[6181:432135] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-12-02 12:48:21.958 Quadratic Wizard[6181:432135] Resetting plugins due to page load.
+2015-12-02 12:48:22.294 Quadratic Wizard[6181:432135] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/16D1F296-43F8-445C-B8C5-02E5AD751134/Quadratic%20Wizard.app/www/index.html
+2015-12-02 12:49:51.160 Quadratic Wizard[6230:433959] Apache Cordova native platform version 3.9.2 is starting.
+2015-12-02 12:49:51.161 Quadratic Wizard[6230:433959] Multi-tasking -> Device: YES, App: YES
+2015-12-02 12:49:51.171 Quadratic Wizard[6230:433959] Unlimited access to network resources
+2015-12-02 12:49:51.175 Quadratic Wizard[6230:433959] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-12-02 12:49:51.298 Quadratic Wizard[6230:433959] Resetting plugins due to page load.
+2015-12-02 12:49:51.643 Quadratic Wizard[6230:433959] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/44DEA791-F643-4364-8ED5-0C0F12E9ACB5/Quadratic%20Wizard.app/www/index.html
+2015-12-02 12:49:53.244 Quadratic Wizard[6230:433959] Resetting plugins due to page load.
+2015-12-02 12:49:53.324 Quadratic Wizard[6230:433959] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/44DEA791-F643-4364-8ED5-0C0F12E9ACB5/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 12:59:26.952 Quadratic Wizard[6301:444468] Apache Cordova native platform version 3.9.2 is starting.
+2015-12-02 12:59:26.953 Quadratic Wizard[6301:444468] Multi-tasking -> Device: YES, App: YES
+2015-12-02 12:59:26.956 Quadratic Wizard[6301:444468] Unlimited access to network resources
+2015-12-02 12:59:26.960 Quadratic Wizard[6301:444468] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-12-02 12:59:27.081 Quadratic Wizard[6301:444468] Resetting plugins due to page load.
+2015-12-02 12:59:27.786 Quadratic Wizard[6301:444468] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/D5942ECB-2E31-4973-8079-BB8636442755/Quadratic%20Wizard.app/www/index.html
+2015-12-02 13:00:19.631 Quadratic Wizard[6407:445868] Apache Cordova native platform version 3.9.2 is starting.
+2015-12-02 13:00:19.633 Quadratic Wizard[6407:445868] Multi-tasking -> Device: YES, App: YES
+2015-12-02 13:00:19.649 Quadratic Wizard[6407:445868] Unlimited access to network resources
+2015-12-02 13:00:19.653 Quadratic Wizard[6407:445868] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-12-02 13:00:19.763 Quadratic Wizard[6407:445868] Resetting plugins due to page load.
+2015-12-02 13:00:20.355 Quadratic Wizard[6407:445868] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/65F0E0C4-3D41-4E84-BBD2-98A2F9FB38C0/Quadratic%20Wizard.app/www/index.html
+2015-12-02 13:00:43.338 Quadratic Wizard[6446:446717] Apache Cordova native platform version 3.9.2 is starting.
+2015-12-02 13:00:43.339 Quadratic Wizard[6446:446717] Multi-tasking -> Device: YES, App: YES
+2015-12-02 13:00:43.342 Quadratic Wizard[6446:446717] Unlimited access to network resources
+2015-12-02 13:00:43.345 Quadratic Wizard[6446:446717] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-12-02 13:00:43.449 Quadratic Wizard[6446:446717] Resetting plugins due to page load.
+2015-12-02 13:00:43.771 Quadratic Wizard[6446:446717] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/7CA1DBAA-4179-41B4-9215-E52397A1EC94/Quadratic%20Wizard.app/www/index.html
+2015-12-02 13:01:02.310 Quadratic Wizard[6482:447258] Apache Cordova native platform version 3.9.2 is starting.
+2015-12-02 13:01:02.310 Quadratic Wizard[6482:447258] Multi-tasking -> Device: YES, App: YES
+2015-12-02 13:01:02.313 Quadratic Wizard[6482:447258] Unlimited access to network resources
+2015-12-02 13:01:02.316 Quadratic Wizard[6482:447258] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-12-02 13:01:02.406 Quadratic Wizard[6482:447258] Resetting plugins due to page load.
+2015-12-02 13:01:03.184 Quadratic Wizard[6482:447258] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/7A149D99-2DD3-4471-9DF2-62A905BB5D43/Quadratic%20Wizard.app/www/index.html
+2015-12-02 13:02:12.701 Quadratic Wizard[6517:448819] Apache Cordova native platform version 3.9.2 is starting.
+2015-12-02 13:02:12.702 Quadratic Wizard[6517:448819] Multi-tasking -> Device: YES, App: YES
+2015-12-02 13:02:12.712 Quadratic Wizard[6517:448819] Unlimited access to network resources
+2015-12-02 13:02:12.717 Quadratic Wizard[6517:448819] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-12-02 13:02:12.857 Quadratic Wizard[6517:448819] Resetting plugins due to page load.
+2015-12-02 13:02:13.232 Quadratic Wizard[6517:448819] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/81040218-17D8-4CB7-A0BB-E5D07225FF41/Quadratic%20Wizard.app/www/index.html
+2015-12-02 13:02:39.451 Quadratic Wizard[6550:449589] Apache Cordova native platform version 3.9.2 is starting.
+2015-12-02 13:02:39.454 Quadratic Wizard[6550:449589] Multi-tasking -> Device: YES, App: YES
+2015-12-02 13:02:39.465 Quadratic Wizard[6550:449589] Unlimited access to network resources
+2015-12-02 13:02:39.468 Quadratic Wizard[6550:449589] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-12-02 13:02:39.577 Quadratic Wizard[6550:449589] Resetting plugins due to page load.
+2015-12-02 13:02:40.098 Quadratic Wizard[6550:449589] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/F51EF695-3B3E-4823-84A4-744DC4BA18C5/Quadratic%20Wizard.app/www/index.html
+2015-12-02 13:02:57.346 Quadratic Wizard[6582:450155] Apache Cordova native platform version 3.9.2 is starting.
+2015-12-02 13:02:57.347 Quadratic Wizard[6582:450155] Multi-tasking -> Device: YES, App: YES
+2015-12-02 13:02:57.358 Quadratic Wizard[6582:450155] Unlimited access to network resources
+2015-12-02 13:02:57.364 Quadratic Wizard[6582:450155] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-12-02 13:02:57.461 Quadratic Wizard[6582:450155] Resetting plugins due to page load.
+2015-12-02 13:02:58.000 Quadratic Wizard[6582:450155] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/C2235EE4-7BFC-4E38-A913-DEA582104B4F/Quadratic%20Wizard.app/www/index.html
+2015-12-02 13:05:24.613 Quadratic Wizard[6623:452227] Apache Cordova native platform version 3.9.2 is starting.
+2015-12-02 13:05:24.614 Quadratic Wizard[6623:452227] Multi-tasking -> Device: YES, App: YES
+2015-12-02 13:05:24.624 Quadratic Wizard[6623:452227] Unlimited access to network resources
+2015-12-02 13:05:24.630 Quadratic Wizard[6623:452227] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-12-02 13:05:24.740 Quadratic Wizard[6623:452227] Resetting plugins due to page load.
+2015-12-02 13:05:27.437 Quadratic Wizard[6623:452227] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/2838F39A-9261-4CD7-ACDD-39E2023632C0/Quadratic%20Wizard.app/www/index.html
+2015-12-02 13:05:28.010 Quadratic Wizard[6623:452227] Resetting plugins due to page load.
+2015-12-02 13:05:28.038 Quadratic Wizard[6623:452227] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/2838F39A-9261-4CD7-ACDD-39E2023632C0/Quadratic%20Wizard.app/www/index.html?

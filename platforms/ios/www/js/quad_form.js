@@ -1,3 +1,7 @@
+function myFunction() {
+    $("#test").html("Hello jQuery");
+}
+
 function get_nums(){
     var a = parseFloat(document.getElementById("a").value);
     var b = parseFloat(document.getElementById("b").value);

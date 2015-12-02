@@ -31,7 +31,11 @@
 
     <script type="text/javascript"
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
+    </script>
+
+    <script type='application/javascript' src='js/fastclick/lib/fastclick.js'></script>
+
+    <script src="js/jquery-1.11.3.min.js"></script>
 
 <script type="text/x-mathjax-config">
     MathJax.Hub.Config({
@@ -78,16 +82,31 @@
 
     <p class="solution_display" id="solutions"></p> 
 
+
     <script>
+
     function jax(){
         MathJax.Hub.Queue(["Typeset",MathJax.Hub]);
     }
 
     window.onload = MathJax.Hub.Queue(["Typeset",MathJax.Hub]);
+
+    window.addEventListener('load', function() {
+        new FastClick(document.body);
+    }, false);
+
+    window.addEventListener('load', function() {
+            document.body.addEventListener('touchmove', function(e) {
+                e.preventDefault();
+            }, false);
+    }, false);
+
+
     </script>
     
 
     </body>
+
 
 
 </html>
