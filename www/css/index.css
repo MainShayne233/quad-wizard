@@ -1,10 +1,7 @@
 .arg-input{
     text-align: right;
     width: 50px;
-    display:inline-block;
     border: none;
-    margin: 0;
-    padding: 0;
     font-size: 100%;
 }
 
@@ -40,26 +37,19 @@ input, textarea{
 
 
 .line{
-    display:inline-block;
 }
 
 .equation{
-    position: inline;
-    text-align: center;
+    position: inline-block;
     color: #30302F;
     font-size: 120%;
 }
 
 .op_btn{
-    vertical-align: center;
     background-color: transparent;
     background-repeat:no-repeat;
     border: none;
-    cursor:pointer;
-    overflow: hidden;
     font-size: 200%;
-    margin: 0;
-    padding: 0;
 }
 
 .quad_submit{

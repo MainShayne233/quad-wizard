@@ -237,3 +237,293 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 
 2015-12-02 13:08:39.974 Quadratic Wizard[6783:456507] Resetting plugins due to page load.
 2015-12-02 13:08:43.417 Quadratic Wizard[6783:456507] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/2065305F-1E9E-4B2B-890F-59B84565BE17/Quadratic%20Wizard.app/www/index.html
+2015-12-02 17:09:27.731 Quadratic Wizard[7284:463441] Apache Cordova native platform version 3.9.2 is starting.
+2015-12-02 17:09:27.733 Quadratic Wizard[7284:463441] Multi-tasking -> Device: YES, App: YES
+2015-12-02 17:09:27.752 Quadratic Wizard[7284:463441] Unlimited access to network resources
+2015-12-02 17:09:27.766 Quadratic Wizard[7284:463441] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-12-02 17:09:28.684 Quadratic Wizard[7284:463441] Resetting plugins due to page load.
+2015-12-02 17:09:29.109 Quadratic Wizard[7284:463441] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/18B11BEF-3035-4A50-92FC-E03979BF0F1E/Quadratic%20Wizard.app/www/index.html
+2015-12-02 17:09:31.165 Quadratic Wizard[7284:463441] Resetting plugins due to page load.
+2015-12-02 17:09:31.181 Quadratic Wizard[7284:463441] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/18B11BEF-3035-4A50-92FC-E03979BF0F1E/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:09:31.948 Quadratic Wizard[7284:463441] Resetting plugins due to page load.
+2015-12-02 17:09:31.964 Quadratic Wizard[7284:463441] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/18B11BEF-3035-4A50-92FC-E03979BF0F1E/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:09:32.300 Quadratic Wizard[7284:463441] Resetting plugins due to page load.
+2015-12-02 17:09:32.316 Quadratic Wizard[7284:463441] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/18B11BEF-3035-4A50-92FC-E03979BF0F1E/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:09:32.492 Quadratic Wizard[7284:463441] Resetting plugins due to page load.
+2015-12-02 17:09:32.508 Quadratic Wizard[7284:463441] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/18B11BEF-3035-4A50-92FC-E03979BF0F1E/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:09:32.661 Quadratic Wizard[7284:463441] Resetting plugins due to page load.
+2015-12-02 17:09:32.675 Quadratic Wizard[7284:463441] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/18B11BEF-3035-4A50-92FC-E03979BF0F1E/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:09:33.791 Quadratic Wizard[7284:463441] Resetting plugins due to page load.
+2015-12-02 17:09:33.807 Quadratic Wizard[7284:463441] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/18B11BEF-3035-4A50-92FC-E03979BF0F1E/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:09:33.986 Quadratic Wizard[7284:463441] Resetting plugins due to page load.
+2015-12-02 17:09:34.000 Quadratic Wizard[7284:463441] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/18B11BEF-3035-4A50-92FC-E03979BF0F1E/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:09:34.202 Quadratic Wizard[7284:463441] Resetting plugins due to page load.
+2015-12-02 17:09:34.216 Quadratic Wizard[7284:463441] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/18B11BEF-3035-4A50-92FC-E03979BF0F1E/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:14:47.673 Quadratic Wizard[7396:467499] Apache Cordova native platform version 3.9.2 is starting.
+2015-12-02 17:14:47.674 Quadratic Wizard[7396:467499] Multi-tasking -> Device: YES, App: YES
+2015-12-02 17:14:47.685 Quadratic Wizard[7396:467499] Unlimited access to network resources
+2015-12-02 17:14:47.690 Quadratic Wizard[7396:467499] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-12-02 17:14:47.797 Quadratic Wizard[7396:467499] Resetting plugins due to page load.
+2015-12-02 17:14:48.120 Quadratic Wizard[7396:467499] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/D32B93F9-2849-4E72-A327-A2785731EBD1/Quadratic%20Wizard.app/www/index.html
+2015-12-02 17:14:49.426 Quadratic Wizard[7396:467499] Resetting plugins due to page load.
+2015-12-02 17:14:49.443 Quadratic Wizard[7396:467499] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/D32B93F9-2849-4E72-A327-A2785731EBD1/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:14:50.194 Quadratic Wizard[7396:467499] Resetting plugins due to page load.
+2015-12-02 17:14:50.211 Quadratic Wizard[7396:467499] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/D32B93F9-2849-4E72-A327-A2785731EBD1/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:14:51.287 Quadratic Wizard[7396:467499] Resetting plugins due to page load.
+2015-12-02 17:14:51.302 Quadratic Wizard[7396:467499] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/D32B93F9-2849-4E72-A327-A2785731EBD1/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:14:51.552 Quadratic Wizard[7396:467499] Resetting plugins due to page load.
+2015-12-02 17:14:51.567 Quadratic Wizard[7396:467499] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/D32B93F9-2849-4E72-A327-A2785731EBD1/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:14:51.841 Quadratic Wizard[7396:467499] Resetting plugins due to page load.
+2015-12-02 17:14:51.855 Quadratic Wizard[7396:467499] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/D32B93F9-2849-4E72-A327-A2785731EBD1/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:14:52.121 Quadratic Wizard[7396:467499] Resetting plugins due to page load.
+2015-12-02 17:14:52.136 Quadratic Wizard[7396:467499] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/D32B93F9-2849-4E72-A327-A2785731EBD1/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:14:52.354 Quadratic Wizard[7396:467499] Resetting plugins due to page load.
+2015-12-02 17:14:52.368 Quadratic Wizard[7396:467499] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/D32B93F9-2849-4E72-A327-A2785731EBD1/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:14:56.689 Quadratic Wizard[7396:467499] Resetting plugins due to page load.
+2015-12-02 17:14:56.703 Quadratic Wizard[7396:467499] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/D32B93F9-2849-4E72-A327-A2785731EBD1/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:14:57.106 Quadratic Wizard[7396:467499] Resetting plugins due to page load.
+2015-12-02 17:14:57.120 Quadratic Wizard[7396:467499] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/D32B93F9-2849-4E72-A327-A2785731EBD1/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:14:57.451 Quadratic Wizard[7396:467499] Resetting plugins due to page load.
+2015-12-02 17:14:57.466 Quadratic Wizard[7396:467499] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/D32B93F9-2849-4E72-A327-A2785731EBD1/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:14:58.092 Quadratic Wizard[7396:467499] Resetting plugins due to page load.
+2015-12-02 17:14:58.107 Quadratic Wizard[7396:467499] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/D32B93F9-2849-4E72-A327-A2785731EBD1/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:14:58.317 Quadratic Wizard[7396:467499] Resetting plugins due to page load.
+2015-12-02 17:14:58.330 Quadratic Wizard[7396:467499] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/D32B93F9-2849-4E72-A327-A2785731EBD1/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:14:58.509 Quadratic Wizard[7396:467499] Resetting plugins due to page load.
+2015-12-02 17:14:58.524 Quadratic Wizard[7396:467499] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/D32B93F9-2849-4E72-A327-A2785731EBD1/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:14:58.694 Quadratic Wizard[7396:467499] Resetting plugins due to page load.
+2015-12-02 17:14:58.709 Quadratic Wizard[7396:467499] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/D32B93F9-2849-4E72-A327-A2785731EBD1/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:14:59.064 Quadratic Wizard[7396:467499] Resetting plugins due to page load.
+2015-12-02 17:14:59.077 Quadratic Wizard[7396:467499] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/D32B93F9-2849-4E72-A327-A2785731EBD1/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:14:59.239 Quadratic Wizard[7396:467499] Resetting plugins due to page load.
+2015-12-02 17:14:59.255 Quadratic Wizard[7396:467499] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/D32B93F9-2849-4E72-A327-A2785731EBD1/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:14:59.417 Quadratic Wizard[7396:467499] Resetting plugins due to page load.
+2015-12-02 17:14:59.430 Quadratic Wizard[7396:467499] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/D32B93F9-2849-4E72-A327-A2785731EBD1/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:14:59.576 Quadratic Wizard[7396:467499] Resetting plugins due to page load.
+2015-12-02 17:14:59.589 Quadratic Wizard[7396:467499] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/D32B93F9-2849-4E72-A327-A2785731EBD1/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:14:59.753 Quadratic Wizard[7396:467499] Resetting plugins due to page load.
+2015-12-02 17:14:59.767 Quadratic Wizard[7396:467499] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/D32B93F9-2849-4E72-A327-A2785731EBD1/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:14:59.915 Quadratic Wizard[7396:467499] Resetting plugins due to page load.
+2015-12-02 17:14:59.928 Quadratic Wizard[7396:467499] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/D32B93F9-2849-4E72-A327-A2785731EBD1/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:15:00.090 Quadratic Wizard[7396:467499] Resetting plugins due to page load.
+2015-12-02 17:15:00.106 Quadratic Wizard[7396:467499] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/D32B93F9-2849-4E72-A327-A2785731EBD1/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:15:20.571 Quadratic Wizard[7435:468270] Apache Cordova native platform version 3.9.2 is starting.
+2015-12-02 17:15:20.572 Quadratic Wizard[7435:468270] Multi-tasking -> Device: YES, App: YES
+2015-12-02 17:15:20.596 Quadratic Wizard[7435:468270] Unlimited access to network resources
+2015-12-02 17:15:20.602 Quadratic Wizard[7435:468270] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-12-02 17:15:20.730 Quadratic Wizard[7435:468270] Resetting plugins due to page load.
+2015-12-02 17:15:21.033 Quadratic Wizard[7435:468270] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/D23A14E3-2980-4D08-903F-09496FB55972/Quadratic%20Wizard.app/www/index.html
+2015-12-02 17:15:22.184 Quadratic Wizard[7435:468270] Resetting plugins due to page load.
+2015-12-02 17:15:22.197 Quadratic Wizard[7435:468270] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/D23A14E3-2980-4D08-903F-09496FB55972/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:15:22.794 Quadratic Wizard[7435:468270] Resetting plugins due to page load.
+2015-12-02 17:15:22.809 Quadratic Wizard[7435:468270] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/D23A14E3-2980-4D08-903F-09496FB55972/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:15:23.146 Quadratic Wizard[7435:468270] Resetting plugins due to page load.
+2015-12-02 17:15:23.161 Quadratic Wizard[7435:468270] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/D23A14E3-2980-4D08-903F-09496FB55972/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:15:23.332 Quadratic Wizard[7435:468270] Resetting plugins due to page load.
+2015-12-02 17:15:23.344 Quadratic Wizard[7435:468270] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/D23A14E3-2980-4D08-903F-09496FB55972/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:15:23.522 Quadratic Wizard[7435:468270] Resetting plugins due to page load.
+2015-12-02 17:15:23.537 Quadratic Wizard[7435:468270] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/D23A14E3-2980-4D08-903F-09496FB55972/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:15:23.707 Quadratic Wizard[7435:468270] Resetting plugins due to page load.
+2015-12-02 17:15:23.722 Quadratic Wizard[7435:468270] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/D23A14E3-2980-4D08-903F-09496FB55972/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:15:23.875 Quadratic Wizard[7435:468270] Resetting plugins due to page load.
+2015-12-02 17:15:23.890 Quadratic Wizard[7435:468270] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/D23A14E3-2980-4D08-903F-09496FB55972/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:15:24.068 Quadratic Wizard[7435:468270] Resetting plugins due to page load.
+2015-12-02 17:15:24.083 Quadratic Wizard[7435:468270] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/D23A14E3-2980-4D08-903F-09496FB55972/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:15:24.260 Quadratic Wizard[7435:468270] Resetting plugins due to page load.
+2015-12-02 17:15:24.277 Quadratic Wizard[7435:468270] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/D23A14E3-2980-4D08-903F-09496FB55972/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:15:24.461 Quadratic Wizard[7435:468270] Resetting plugins due to page load.
+2015-12-02 17:15:24.476 Quadratic Wizard[7435:468270] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/D23A14E3-2980-4D08-903F-09496FB55972/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:15:24.638 Quadratic Wizard[7435:468270] Resetting plugins due to page load.
+2015-12-02 17:15:24.653 Quadratic Wizard[7435:468270] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/D23A14E3-2980-4D08-903F-09496FB55972/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:15:53.870 Quadratic Wizard[7467:469060] Apache Cordova native platform version 3.9.2 is starting.
+2015-12-02 17:15:53.871 Quadratic Wizard[7467:469060] Multi-tasking -> Device: YES, App: YES
+2015-12-02 17:15:53.883 Quadratic Wizard[7467:469060] Unlimited access to network resources
+2015-12-02 17:15:53.887 Quadratic Wizard[7467:469060] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-12-02 17:15:54.157 Quadratic Wizard[7467:469060] Resetting plugins due to page load.
+2015-12-02 17:15:54.463 Quadratic Wizard[7467:469060] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/F95ABEBB-EBF9-4F50-A93B-9AC09BA2BBB1/Quadratic%20Wizard.app/www/index.html
+2015-12-02 17:16:03.720 Quadratic Wizard[7467:469060] Resetting plugins due to page load.
+2015-12-02 17:16:03.735 Quadratic Wizard[7467:469060] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/F95ABEBB-EBF9-4F50-A93B-9AC09BA2BBB1/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:16:05.428 Quadratic Wizard[7467:469060] Resetting plugins due to page load.
+2015-12-02 17:16:05.441 Quadratic Wizard[7467:469060] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/F95ABEBB-EBF9-4F50-A93B-9AC09BA2BBB1/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:16:45.780 Quadratic Wizard[7499:469775] Apache Cordova native platform version 3.9.2 is starting.
+2015-12-02 17:16:45.781 Quadratic Wizard[7499:469775] Multi-tasking -> Device: YES, App: YES
+2015-12-02 17:16:45.793 Quadratic Wizard[7499:469775] Unlimited access to network resources
+2015-12-02 17:16:45.797 Quadratic Wizard[7499:469775] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-12-02 17:16:46.093 Quadratic Wizard[7499:469775] Resetting plugins due to page load.
+2015-12-02 17:16:46.356 Quadratic Wizard[7499:469775] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/128E555A-CFA3-464D-AD9F-CCE4F8C7A0EE/Quadratic%20Wizard.app/www/index.html
+2015-12-02 17:16:54.428 Quadratic Wizard[7499:469775] Resetting plugins due to page load.
+2015-12-02 17:16:54.442 Quadratic Wizard[7499:469775] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/128E555A-CFA3-464D-AD9F-CCE4F8C7A0EE/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:16:58.461 Quadratic Wizard[7499:469775] Resetting plugins due to page load.
+2015-12-02 17:16:58.474 Quadratic Wizard[7499:469775] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/128E555A-CFA3-464D-AD9F-CCE4F8C7A0EE/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:17:20.978 Quadratic Wizard[7532:470365] Apache Cordova native platform version 3.9.2 is starting.
+2015-12-02 17:17:20.979 Quadratic Wizard[7532:470365] Multi-tasking -> Device: YES, App: YES
+2015-12-02 17:17:20.982 Quadratic Wizard[7532:470365] Unlimited access to network resources
+2015-12-02 17:17:20.985 Quadratic Wizard[7532:470365] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-12-02 17:17:21.088 Quadratic Wizard[7532:470365] Resetting plugins due to page load.
+2015-12-02 17:17:21.389 Quadratic Wizard[7532:470365] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/239350DD-95C6-43EE-A628-5C5D38537643/Quadratic%20Wizard.app/www/index.html
+2015-12-02 17:17:23.913 Quadratic Wizard[7532:470365] Resetting plugins due to page load.
+2015-12-02 17:17:23.971 Quadratic Wizard[7532:470365] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/239350DD-95C6-43EE-A628-5C5D38537643/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:17:52.043 Quadratic Wizard[7564:471013] Apache Cordova native platform version 3.9.2 is starting.
+2015-12-02 17:17:52.044 Quadratic Wizard[7564:471013] Multi-tasking -> Device: YES, App: YES
+2015-12-02 17:17:52.056 Quadratic Wizard[7564:471013] Unlimited access to network resources
+2015-12-02 17:17:52.061 Quadratic Wizard[7564:471013] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-12-02 17:17:52.171 Quadratic Wizard[7564:471013] Resetting plugins due to page load.
+2015-12-02 17:17:52.436 Quadratic Wizard[7564:471013] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/09EE4179-55B2-4CC0-80EB-0CDDDBD5A472/Quadratic%20Wizard.app/www/index.html
+2015-12-02 17:17:55.341 Quadratic Wizard[7564:471013] Resetting plugins due to page load.
+2015-12-02 17:17:55.412 Quadratic Wizard[7564:471013] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/09EE4179-55B2-4CC0-80EB-0CDDDBD5A472/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:18:00.453 Quadratic Wizard[7564:471013] Resetting plugins due to page load.
+2015-12-02 17:18:00.468 Quadratic Wizard[7564:471013] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/09EE4179-55B2-4CC0-80EB-0CDDDBD5A472/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:18:31.350 Quadratic Wizard[7597:471653] Apache Cordova native platform version 3.9.2 is starting.
+2015-12-02 17:18:31.351 Quadratic Wizard[7597:471653] Multi-tasking -> Device: YES, App: YES
+2015-12-02 17:18:31.353 Quadratic Wizard[7597:471653] Unlimited access to network resources
+2015-12-02 17:18:31.357 Quadratic Wizard[7597:471653] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-12-02 17:18:31.455 Quadratic Wizard[7597:471653] Resetting plugins due to page load.
+2015-12-02 17:18:31.894 Quadratic Wizard[7597:471653] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/A76C2CA9-40DE-47E0-A58B-483ACF1B72D7/Quadratic%20Wizard.app/www/index.html
+2015-12-02 17:18:32.850 Quadratic Wizard[7597:471653] Resetting plugins due to page load.
+2015-12-02 17:18:32.867 Quadratic Wizard[7597:471653] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/A76C2CA9-40DE-47E0-A58B-483ACF1B72D7/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:18:33.352 Quadratic Wizard[7597:471653] Resetting plugins due to page load.
+2015-12-02 17:18:33.366 Quadratic Wizard[7597:471653] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/A76C2CA9-40DE-47E0-A58B-483ACF1B72D7/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:18:34.217 Quadratic Wizard[7597:471653] Resetting plugins due to page load.
+2015-12-02 17:18:34.232 Quadratic Wizard[7597:471653] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/A76C2CA9-40DE-47E0-A58B-483ACF1B72D7/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:18:34.482 Quadratic Wizard[7597:471653] Resetting plugins due to page load.
+2015-12-02 17:18:34.497 Quadratic Wizard[7597:471653] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/A76C2CA9-40DE-47E0-A58B-483ACF1B72D7/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:18:34.650 Quadratic Wizard[7597:471653] Resetting plugins due to page load.
+2015-12-02 17:18:34.665 Quadratic Wizard[7597:471653] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/A76C2CA9-40DE-47E0-A58B-483ACF1B72D7/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:18:34.826 Quadratic Wizard[7597:471653] Resetting plugins due to page load.
+2015-12-02 17:18:34.841 Quadratic Wizard[7597:471653] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/A76C2CA9-40DE-47E0-A58B-483ACF1B72D7/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:18:34.981 Quadratic Wizard[7597:471653] Resetting plugins due to page load.
+2015-12-02 17:18:34.995 Quadratic Wizard[7597:471653] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/A76C2CA9-40DE-47E0-A58B-483ACF1B72D7/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:19:23.188 Quadratic Wizard[7630:472742] Apache Cordova native platform version 3.9.2 is starting.
+2015-12-02 17:19:23.189 Quadratic Wizard[7630:472742] Multi-tasking -> Device: YES, App: YES
+2015-12-02 17:19:23.191 Quadratic Wizard[7630:472742] Unlimited access to network resources
+2015-12-02 17:19:23.194 Quadratic Wizard[7630:472742] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-12-02 17:19:23.288 Quadratic Wizard[7630:472742] Resetting plugins due to page load.
+2015-12-02 17:19:23.586 Quadratic Wizard[7630:472742] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/96A82104-ADAE-4F4F-A772-7E63770621FE/Quadratic%20Wizard.app/www/index.html
+2015-12-02 17:19:29.667 Quadratic Wizard[7630:472742] Resetting plugins due to page load.
+2015-12-02 17:19:29.727 Quadratic Wizard[7630:472742] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/96A82104-ADAE-4F4F-A772-7E63770621FE/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:19:32.771 Quadratic Wizard[7630:472742] Resetting plugins due to page load.
+2015-12-02 17:19:32.785 Quadratic Wizard[7630:472742] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/96A82104-ADAE-4F4F-A772-7E63770621FE/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:22:01.720 Quadratic Wizard[7675:474463] Apache Cordova native platform version 3.9.2 is starting.
+2015-12-02 17:22:01.722 Quadratic Wizard[7675:474463] Multi-tasking -> Device: YES, App: YES
+2015-12-02 17:22:01.732 Quadratic Wizard[7675:474463] Unlimited access to network resources
+2015-12-02 17:22:01.736 Quadratic Wizard[7675:474463] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-12-02 17:22:01.861 Quadratic Wizard[7675:474463] Resetting plugins due to page load.
+2015-12-02 17:22:02.152 Quadratic Wizard[7675:474463] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/C82E838E-611C-4ADA-9CD8-9849FA9615D0/Quadratic%20Wizard.app/www/index.html
+2015-12-02 17:22:14.131 Quadratic Wizard[7675:474463] Resetting plugins due to page load.
+2015-12-02 17:22:14.148 Quadratic Wizard[7675:474463] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/C82E838E-611C-4ADA-9CD8-9849FA9615D0/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:22:14.666 Quadratic Wizard[7675:474463] Resetting plugins due to page load.
+2015-12-02 17:22:14.682 Quadratic Wizard[7675:474463] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/C82E838E-611C-4ADA-9CD8-9849FA9615D0/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:22:15.395 Quadratic Wizard[7675:474463] Resetting plugins due to page load.
+2015-12-02 17:22:15.411 Quadratic Wizard[7675:474463] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/C82E838E-611C-4ADA-9CD8-9849FA9615D0/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:22:15.848 Quadratic Wizard[7675:474463] Resetting plugins due to page load.
+2015-12-02 17:22:15.864 Quadratic Wizard[7675:474463] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/C82E838E-611C-4ADA-9CD8-9849FA9615D0/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:22:16.330 Quadratic Wizard[7675:474463] Resetting plugins due to page load.
+2015-12-02 17:22:16.345 Quadratic Wizard[7675:474463] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/C82E838E-611C-4ADA-9CD8-9849FA9615D0/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:22:16.626 Quadratic Wizard[7675:474463] Resetting plugins due to page load.
+2015-12-02 17:22:16.640 Quadratic Wizard[7675:474463] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/C82E838E-611C-4ADA-9CD8-9849FA9615D0/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:22:16.819 Quadratic Wizard[7675:474463] Resetting plugins due to page load.
+2015-12-02 17:22:16.833 Quadratic Wizard[7675:474463] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/C82E838E-611C-4ADA-9CD8-9849FA9615D0/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:22:34.793 Quadratic Wizard[7710:475187] Apache Cordova native platform version 3.9.2 is starting.
+2015-12-02 17:22:34.794 Quadratic Wizard[7710:475187] Multi-tasking -> Device: YES, App: YES
+2015-12-02 17:22:34.796 Quadratic Wizard[7710:475187] Unlimited access to network resources
+2015-12-02 17:22:34.799 Quadratic Wizard[7710:475187] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-12-02 17:22:34.911 Quadratic Wizard[7710:475187] Resetting plugins due to page load.
+2015-12-02 17:22:35.183 Quadratic Wizard[7710:475187] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/41C85FE1-C622-4351-9848-4AA041B91D9A/Quadratic%20Wizard.app/www/index.html
+2015-12-02 17:30:57.527 Quadratic Wizard[7763:479744] Apache Cordova native platform version 3.9.2 is starting.
+2015-12-02 17:30:57.529 Quadratic Wizard[7763:479744] Multi-tasking -> Device: YES, App: YES
+2015-12-02 17:30:57.533 Quadratic Wizard[7763:479744] Unlimited access to network resources
+2015-12-02 17:30:57.543 Quadratic Wizard[7763:479744] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-12-02 17:30:57.664 Quadratic Wizard[7763:479744] Resetting plugins due to page load.
+2015-12-02 17:30:58.017 Quadratic Wizard[7763:479744] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/BFF4106B-C8C4-469A-B8E3-BC029BD7A6A4/Quadratic%20Wizard.app/www/index.html
+2015-12-02 17:31:10.206 Quadratic Wizard[7763:479744] Resetting plugins due to page load.
+2015-12-02 17:31:10.225 Quadratic Wizard[7763:479744] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/BFF4106B-C8C4-469A-B8E3-BC029BD7A6A4/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:31:10.946 Quadratic Wizard[7763:479744] Resetting plugins due to page load.
+2015-12-02 17:31:10.962 Quadratic Wizard[7763:479744] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/BFF4106B-C8C4-469A-B8E3-BC029BD7A6A4/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:31:11.405 Quadratic Wizard[7763:479744] Resetting plugins due to page load.
+2015-12-02 17:31:11.418 Quadratic Wizard[7763:479744] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/BFF4106B-C8C4-469A-B8E3-BC029BD7A6A4/Quadratic%20Wizard.app/www/index.html?
+2015-12-02 17:31:11.638 Quadratic Wizard[7763:479744] Resetting plugins due to page load.
+2015-12-02 17:31:11.651 Quadratic Wizard[7763:479744] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/BFF4106B-C8C4-469A-B8E3-BC029BD7A6A4/Quadratic%20Wizard.app/www/index.html?

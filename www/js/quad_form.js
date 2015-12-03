@@ -1,6 +1,13 @@
-function myFunction() {
-    $("#test").html("Hello jQuery");
+function sign_switch(id){
+    var elem = document.getElementById(id);
+    if (elem.innerHTML == "+"){
+        elem.innerHTML = "-";
+    }
+    else{
+        elem.innerHTML = "+";
+    }
 }
+
 
 function get_nums(){
     var a = parseFloat(document.getElementById("a").value);
