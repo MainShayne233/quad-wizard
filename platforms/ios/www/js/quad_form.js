@@ -1,3 +1,15 @@
+function quad_equation(){
+    spinner = new Spinner().spin();
+    document.getElementById("spindiv").appendChild(spinner.el);
+    quad_equation2();
+}
+
+function spin_load(){
+    spinner = new Spinner().spin();
+    document.getElementById("spindiv").appendChild(spinner.el);
+}
+
+
 function sign_switch(id){
     var elem = document.getElementById(id);
     if (elem.innerHTML == "+"){
@@ -13,6 +25,12 @@ function get_nums(){
     var a = parseFloat(document.getElementById("a").value);
     var b = parseFloat(document.getElementById("b").value);
     var c = parseFloat(document.getElementById("c").value);
+    if (document.getElementById("op1").innerHTML == "-"){
+        b*=-1;
+    }
+    if (document.getElementById("op2").innerHTML == "-"){
+        c*=-1;
+    }
     return [a,b,c];
 }
 
@@ -363,8 +381,12 @@ function nan_input(nums){
 }
 
 
+
+
 //sqrt_prop[neg_pos_zero,[coe, sqrt]]
-function quad_equation() {
+function quad_equation2() {
+
+
     
     document.getElementById('solutions').style.visibility = "hidden";
 
@@ -389,14 +411,18 @@ function quad_equation() {
             document.getElementById("solutions").innerHTML = "<br>Soluton: \\(x =" + sol1_string + "\\)";
         }
         else{
-            document.getElementById("solutions").innerHTML = "<br>Soluton 1: \\(x=" + sol1_string + "\\)" + "<br><br><br>Solution 2:   \\(x=" + sol2_string + "\\)";
+            document.getElementById("solutions").innerHTML = "<br>Soluton 1: \\(x=" + sol1_string + "\\)" + "<br><br>Solution 2:   \\(x=" + sol2_string + "\\)";
         }
     }
     MathJax.Hub.Queue(
         ["Typeset",MathJax.Hub],
         function () {
+            spinner.stop(spindiv);
             document.getElementById('solutions').style.visibility = "";
     }
+
   );
-    
+
+
+
 }
