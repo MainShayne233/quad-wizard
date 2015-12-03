@@ -1,7 +1,10 @@
 function sign_switch(id){
     var elem = document.getElementById(id);
     if (elem.innerHTML == "+"){
-        document.getElementById(id).innerHTML = "-";
+        elem.innerHTML = "-";
+    }
+    else{
+        elem.innerHTML = "+";
     }
 }
 

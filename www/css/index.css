@@ -1,11 +1,32 @@
 .arg-input{
-    text-align: right;
-    width: 50px;
-    border: none;
-    font-size: 100%;
+    width: 2.8em;
+    font-size: 20px;
+
 }
 
 .eq-pics{
+}
+
+.container{
+    text-align: center;
+    overflow: hidden;
+}
+
+.op_btn{
+    font-size: 33px;
+    width: .7em;
+    height: 1.5em;
+}
+
+.line-seg{
+    display: inline-block;
+    border: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+#equation{
     border: none;
     margin: 0;
     padding: 0;
@@ -25,7 +46,6 @@ input{
 }
 
 body{
-    /*background-color: #e3e3e3;*/
     background-color: #FFD464;
 }
 
@@ -36,21 +56,7 @@ input, textarea{
 
 
 
-.line{
-}
 
-.equation{
-    position: inline-block;
-    color: #30302F;
-    font-size: 120%;
-}
-
-.op_btn{
-    background-color: transparent;
-    background-repeat:no-repeat;
-    border: none;
-    font-size: 200%;
-}
 
 .quad_submit{
     text-align:center;
