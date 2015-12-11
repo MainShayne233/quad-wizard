@@ -29,20 +29,17 @@
 
     <script src="js/quad_form.js"></script>
 
-    <script type="text/javascript"
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-    </script>
+    <script type="text/javascript" src="js/MathJax-2.5-latest/MathJax.js?config=AM_HTMLorMML"></script>
 
     <script type='application/javascript' src='js/fastclick.js'></script>
-
-    <script src="js/spin.min.js"></script>
 
 
 <script type="text/x-mathjax-config">
     MathJax.Hub.Config({
         messageStyle: 'none',tex2jax: {
             preview: 'none'
-        }
+        },
+        "HTML-CSS": { availableFonts: ["STIX-Web"], preferredFont: "STIX-Web", webFont: "STIX-Web"}
     });
 </script>
 
@@ -76,9 +73,11 @@
         <button class="submit btn btn-primary" onclick="quad_equation()">Consult Quadratic Formula</button></div>
     </div>
 
-    <div id="spindiv"></div>
+    <div id="soldiv">
 
-    <p class="solution_display" id="solutions"></p> 
+        <p class="solution_display" id="solutions"></p> 
+
+    </div>
 
     </body>
 

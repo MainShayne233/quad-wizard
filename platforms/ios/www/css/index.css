@@ -4,9 +4,6 @@
 
 }
 
-.eq-pics{
-}
-
 .container{
     text-align: center;
     overflow: hidden;
@@ -27,8 +24,9 @@
 
 
 #equation{
+    text-align: center;
     border: none;
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
 }
 
@@ -66,10 +64,11 @@ input, textarea{
 
 .solution_display{
     color: #30302F;
-    font-size: 170%;
+    /*font-size: 160%;*/
+    font-size: 135%;
     text-align:center;
     margin:auto;
-    margin-top: 5px;
+    padding-bottom: 5px;
 }
 
 #wizhat{

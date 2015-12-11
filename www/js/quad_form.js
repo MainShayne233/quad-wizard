@@ -47,7 +47,7 @@ function neg_pos_zero(sqrt){
 
 
 function is_sqr(n){
-    if (Math.pow(n,0.5) == parseInt(Math.pow(n,0.5))){
+    if (Math.pow(n,0.5) % 1 == 0){
         return true;
     }
     return false;
@@ -352,15 +352,15 @@ function ax_b(nums){
 function not_quad(nums){
     if (nums[1] == 0){
         if (nums[2] == 0){
-            return "Looks like you entered all zeros. Good for you, but this doesn't concern the quadratic formula. However, the equation \\(0=0\\) will hold true for all \\(x\\).";
+            return "Looks like you entered all zeros. Good for you, but this doesn't concern the quadratic formula. However, the equation `(0=0` will hold true for all `x`.";
         }
-        return "Do you see what you did there? You entered zeroes for everything except the constant. Did you do that on purpose? Regardless, the equation won't be true for any \\(x\\), because \\(" + nums[2].toString() + "\\neq 0\\), no matter what \\(x\\) is.";
+        return "Do you see what you did there? You entered zeroes for everything except the constant. Did you do that on purpose? Regardless, the equation won't be true for any `x`, because `" + nums[2].toString() + "`neq 0`, no matter what `x` is.";
     }
     if (nums[2] == 0){
-        return "You do realize this is just \\(" + nums[1].toString() + "x=0\\), right? It's plain to see that the equation will be true when, and only when, \\(x=0\\).";
+        return "You do realize this is just `" + nums[1].toString() + "x=0`, right? It's plain to see that the equation will be true when, and only when, `x=0`.";
     }
     var sol = ax_b(nums);
-    return "You plugged in a \\(0\\) for the coeffecient of \\(x^2\\). That's fine, but an equation in this form does not concern the quadratic formula. Despite that, we can still solve for x, and in this case, \\(x=" + sol + "\\).";
+    return "You plugged in a `0` for the coeffecient of `x^2`. That's fine, but an equation in this form does not concern the quadratic formula. Despite that, we can still solve for `x`, and in this case, `x=" + sol + "`.";
 
 }
 
@@ -371,9 +371,6 @@ function nan_input(nums){
 
 //sqrt_prop[neg_pos_zero,[coe, sqrt]]
 function quad_equation() {
-
-    spinner = new Spinner().spin();
-    document.getElementById("soldiv").appendChild(spinner.el);
 
     
     document.getElementById('solutions').style.visibility = "hidden";
@@ -391,21 +388,20 @@ function quad_equation() {
     else{
         var sqrt = inner_sqrt_value(nums);
         var sqrt_prop = sqrt_properties(sqrt);
-        var sol1 = sol_form(nums,sqrt_prop,1);  
+        var sol1 = sol_form(nums,sqrt_prop,1); 
         var sol2 = sol_form(nums,sqrt_prop,-1);
         var sol1_string = sol_string(sol1,1);
         var sol2_string = sol_string(sol2,-1);
         if (sol1_string == sol2_string){
-            document.getElementById("solutions").innerHTML = "<br>Soluton: \\(x =" + sol1_string + "\\)";
+            document.getElementById("solutions").innerHTML = "<br>Soluton: `x =" + sol1_string + "`";
         }
         else{
-            document.getElementById("solutions").innerHTML = "<br>Soluton 1: \\(x=" + sol1_string + "\\)" + "<br><br>Solution 2:   \\(x=" + sol2_string + "\\)";
+            document.getElementById("solutions").innerHTML = "<br>Soluton 1: `x=" + sol1_string + "`" + "<br><br>Solution 2:   `x=" + sol2_string + "`";
         }
     }
     MathJax.Hub.Queue(
         ["Typeset",MathJax.Hub],
         function () {
-            spinner.stop();
             document.getElementById('solutions').style.visibility = "";
     }
 
