@@ -371,8 +371,6 @@ function nan_input(nums){
 
 //sqrt_prop[neg_pos_zero,[coe, sqrt]]
 function quad_equation() {
-
-    
     document.getElementById('solutions').style.visibility = "hidden";
 
     var nums = get_nums();
@@ -404,7 +402,62 @@ function quad_equation() {
         function () {
             document.getElementById('solutions').style.visibility = "";
     }
-
   );
 
+}
+
+function approx_sol(arg, which){
+    var sqrt = inner_sqrt_value(arg);
+    if (sqrt >= 0){
+        sqrt = Math.pow(sqrt, 0.5);
+        if (which == 1){
+            val = ((-1*arg[1]) + sqrt)/(2*arg[0]);
+            return String(val.toFixed(3));
+        }
+        else{
+            val = ((-1*arg[1]) - sqrt)/(2*arg[0]);
+            return String(val.toFixed(3));
+        }   
+    }
+    else{
+        sqrt*=-1;
+        sqrt = Math.pow(sqrt, 0.5);
+        val1 = (-1*arg[1])/(2*arg[0]).toFixed(3);
+        val2 = (sqrt)/(2*arg[0]).toFixed(3);
+        if (which == 1){
+            return val1.toFixed(3) + " + " + val2.toFixed(3) + "i";
+        }
+        else{
+            return val1.toFixed(3) + " - " + val2.toFixed(3) + "i";
+        }
+    }
+}
+
+function approximate(){
+    document.getElementById('solutions').style.visibility = "hidden";
+    var nums = get_nums();
+    if (isNaN(nums[0]) || isNaN(nums[1]) || isNaN(nums[2])){
+        var sol = nan_input(nums);
+        document.getElementById("solutions").innerHTML = sol;
+    }
+    else if (nums[0] == 0){
+        var sol = not_quad(nums);
+        document.getElementById("solutions").innerHTML = sol;
+    }
+    else{
+        sol1_string = approx_sol(nums, 1);
+        sol2_string = approx_sol(nums, -1);
+        if (sol1_string == sol2_string){
+            document.getElementById("solutions").innerHTML = "<br>Soluton: `x =" + sol1_string + "`";
+        }
+        else{
+            document.getElementById("solutions").innerHTML = "<br>Soluton 1: `x=" + sol1_string + "`" + "<br><br>Solution 2:   `x=" + sol2_string + "`";
+        }
+    }
+    MathJax.Hub.Queue(
+        ["Typeset",MathJax.Hub],
+        function () {
+            document.getElementById('solutions').style.visibility = "";
+    }
+  );
 }

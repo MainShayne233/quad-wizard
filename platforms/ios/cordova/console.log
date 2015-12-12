@@ -527,3 +527,17 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-12-02 17:31:11.418 Quadratic Wizard[7763:479744] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/BFF4106B-C8C4-469A-B8E3-BC029BD7A6A4/Quadratic%20Wizard.app/www/index.html?
 2015-12-02 17:31:11.638 Quadratic Wizard[7763:479744] Resetting plugins due to page load.
 2015-12-02 17:31:11.651 Quadratic Wizard[7763:479744] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/EF486FBF-6FA8-4B24-8C0E-9433FA5F9FE0/data/Containers/Bundle/Application/BFF4106B-C8C4-469A-B8E3-BC029BD7A6A4/Quadratic%20Wizard.app/www/index.html?
+2015-12-12 12:22:48.273 Quadratic Wizard[1843:58606] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/9936E5FE-ABCB-4DFF-84E9-9C1AC34596AF/data/Containers/Data/Application/F128C722-F90D-4957-A7C1-03789BB2E3B3/Library/Cookies/com.tremblay.quadwiz.binarycookies
+2015-12-12 12:22:48.810 Quadratic Wizard[1843:58606] Apache Cordova native platform version 3.9.2 is starting.
+2015-12-12 12:22:48.811 Quadratic Wizard[1843:58606] Multi-tasking -> Device: YES, App: YES
+2015-12-12 12:22:48.829 Quadratic Wizard[1843:58606] Unlimited access to network resources
+2015-12-12 12:22:48.845 Quadratic Wizard[1843:58606] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-12-12 12:22:49.902 Quadratic Wizard[1843:58606] Resetting plugins due to page load.
+2015-12-12 12:22:50.319 Quadratic Wizard[1843:58606] Finished load of: file:///Users/shayne/Library/Developer/CoreSimulator/Devices/9936E5FE-ABCB-4DFF-84E9-9C1AC34596AF/data/Containers/Bundle/Application/80E38844-15BB-4DFD-AA5D-D386C1EA2838/Quadratic%20Wizard.app/www/index.html
