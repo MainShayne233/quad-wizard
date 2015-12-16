@@ -47,14 +47,16 @@ function neg_pos_zero(sqrt){
 
 
 function is_sqr(n){
-    if (Math.pow(n,0.5) % 1 == 0){
+    if (Math.sqrt(n) % 1 == 0){
         return true;
     }
     return false;
 }
 
+
+
 function sqr_fact(sqrt){
-    for (i = 1; i <= sqrt; i++){
+    for (i = sqrt%1 + 1; i <= sqrt; i+=2){
         if (is_sqr(sqrt/i)){
             return (sqrt/i);
         }
@@ -63,19 +65,21 @@ function sqr_fact(sqrt){
 }
 
 
+
+
 function sqrt_case(sqrt){
     if (sqrt < 0){
         sqrt = sqrt*(-1);
     }
     var fac = sqr_fact(sqrt);
     if (fac == sqrt){
-        return [Math.pow(sqrt,0.5),1];
+        return [Math.sqrt(sqrt),1];
     }
     else if (fac == 1){
         return [1,sqrt];
     }
     else{
-        return [Math.pow(fac,0.5),sqrt/fac];
+        return [Math.sqrt(fac),sqrt/fac];
     }
 }
 
@@ -409,7 +413,7 @@ function quad_equation() {
 function approx_sol(arg, which){
     var sqrt = inner_sqrt_value(arg);
     if (sqrt >= 0){
-        sqrt = Math.pow(sqrt, 0.5);
+        sqrt = Math.sqrt(sqrt);
         if (which == 1){
             val = ((-1*arg[1]) + sqrt)/(2*arg[0]);
             return String(val.toFixed(3));
@@ -421,7 +425,7 @@ function approx_sol(arg, which){
     }
     else{
         sqrt*=-1;
-        sqrt = Math.pow(sqrt, 0.5);
+        sqrt = Math.sqrt(sqrt);
         val1 = (-1*arg[1])/(2*arg[0]).toFixed(3);
         val2 = (sqrt)/(2*arg[0]).toFixed(3);
         if (which == 1){
