@@ -1,3 +1,5 @@
+
+
 function sign_switch(id){
     var elem = document.getElementById(id);
     if (elem.innerHTML == "+"){
@@ -374,18 +376,15 @@ function nan_input(nums){
 
 
 //sqrt_prop[neg_pos_zero,[coe, sqrt]]
-function quad_equation() {
-    document.getElementById('solutions').style.visibility = "hidden";
-
-    var nums = get_nums();
+function quad_equation(nums) {
 
     if (isNaN(nums[0]) || isNaN(nums[1]) || isNaN(nums[2])){
         var sol = nan_input(nums);
-        document.getElementById("solutions").innerHTML = sol;
+        postMessage(sol);
     }
     else if (nums[0] == 0){
         var sol = not_quad(nums);
-        document.getElementById("solutions").innerHTML = sol;
+        postMessage(sol);
     }
     else{
         var sqrt = inner_sqrt_value(nums);
@@ -395,18 +394,12 @@ function quad_equation() {
         var sol1_string = sol_string(sol1,1);
         var sol2_string = sol_string(sol2,-1);
         if (sol1_string == sol2_string){
-            document.getElementById("solutions").innerHTML = "<br>Soluton: `x =" + sol1_string + "`";
+            postMessage("<br>Soluton: `x =" + sol1_string + "`");
         }
         else{
-            document.getElementById("solutions").innerHTML = "<br>Soluton 1: `x=" + sol1_string + "`" + "<br><br>Solution 2:   `x=" + sol2_string + "`";
+            postMessage("<br>Soluton 1: `x=" + sol1_string + "`" + "<br><br>Solution 2:   `x=" + sol2_string + "`");
         }
     }
-    MathJax.Hub.Queue(
-        ["Typeset",MathJax.Hub],
-        function () {
-            document.getElementById('solutions').style.visibility = "";
-    }
-  );
 
 }
 
@@ -460,12 +453,8 @@ function approximate(){
             document.getElementById("solutions").innerHTML = "<br>Soluton 1: `x=" + sol1_string + "`" + "<br><br>Solution 2:   `x=" + sol2_string + "`";
         }
     }
-    MathJax.Hub.Queue(
-        ["Typeset",MathJax.Hub],
-        function () {
-            document.getElementById('solutions').style.visibility = "";
-    }
-  );
 }
 
-quad_equation();
+onmessage = function(e) {
+    postMessage(quad_equation(e.data));
+};

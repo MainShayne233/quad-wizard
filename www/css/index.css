@@ -1,8 +1,11 @@
-.loader-inner{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 20px;
+.loader{
+    position: fixed;
+    z-index: 999;
+    height: 2em;
+    width: 2em;
+    overflow: show;
+    margin top: 200px;
+    margin: auto;
 }
 
 

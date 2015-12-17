@@ -437,6 +437,8 @@ function approx_sol(arg, which){
     }
 }
 
+
+
 function approximate(){
     document.getElementById('solutions').style.visibility = "hidden";
     var nums = get_nums();
@@ -465,3 +467,5 @@ function approximate(){
     }
   );
 }
+
+quad_equation();

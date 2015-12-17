@@ -31,6 +31,15 @@
 
     <script src="js/quad_form.js"></script>
 
+    <script src="js/webworkers.js"></script>
+
+    <script src="js/index.js"></script>
+
+
+
+
+
+
     <script type="text/javascript" src="js/MathJax-2.5-latest/MathJax.js?config=AM_HTMLorMML"></script>
 
     <script type='application/javascript' src='js/fastclick.js'></script>
@@ -39,7 +48,6 @@
 <script type="text/x-mathjax-config">
     MathJax.Hub.Config({
         messageStyle: 'none',tex2jax: {
-            preview: 'none'
         },
         "HTML-CSS": { availableFonts: ["STIX-Web"], preferredFont: "STIX-Web", webFont: "STIX-Web"}
     });
@@ -73,15 +81,24 @@
     </div>
 
     <div class="quad_submit">
-        <button class="submit btn btn-primary sub-buts" onclick="quad_equation()">Exact</button>
+        <button class="submit btn btn-primary sub-buts" onclick="startWorker()">Exact</button>
 
-        <button class="submit btn btn-primary sub-buts" onclick="approximate()">Approximate</button>
+        <button class="submit btn btn-primary sub-buts" onclick="startWorker()">Approximate</button>
 
     </div>
 
+
     <div id="soldiv">
 
-        <p class="solution_display" id="solutions"></p> 
+        <p class="solution_display" id="solutions"></p>
+
+    
+
+        <div class="loader-inner ball-triangle-path loader" id="loaderdiv">
+              <div></div>
+              <div></div>
+              <div></div>
+        </div>
 
     </div>
 
@@ -90,27 +107,12 @@
 
     <script>
 
-    function jax(){
-        MathJax.Hub.Queue(["Typeset",MathJax.Hub]);
-    }
 
-    window.onload = MathJax.Hub.Queue(["Typeset",MathJax.Hub]);
-
-    window.addEventListener('load', function() {
-        new FastClick(document.body);
-    }, false);
-
-    window.addEventListener('load', function() {
-            document.body.addEventListener('touchmove', function(e) {
-                e.preventDefault();
-            }, false);
-    }, false);
 
 
     </script>
     
 
-    </body>
 
 
 

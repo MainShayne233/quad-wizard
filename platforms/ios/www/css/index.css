@@ -1,3 +1,14 @@
+.loader{
+    position: fixed;
+    z-index: 999;
+    height: 2em;
+    width: 2em;
+    overflow: show;
+    margin top: 200px;
+    margin: auto;
+}
+
+
 .arg-input{
     width: 2.8em;
     font-size: 20px;
