@@ -409,52 +409,55 @@ function approx_sol(arg, which){
         sqrt = Math.sqrt(sqrt);
         if (which == 1){
             val = ((-1*arg[1]) + sqrt)/(2*arg[0]);
-            return String(val.toFixed(3));
+            return String(val.toFixed(4));
         }
         else{
             val = ((-1*arg[1]) - sqrt)/(2*arg[0]);
-            return String(val.toFixed(3));
+            return String(val.toFixed(4));
         }   
     }
     else{
         sqrt*=-1;
         sqrt = Math.sqrt(sqrt);
-        val1 = (-1*arg[1])/(2*arg[0]).toFixed(3);
-        val2 = (sqrt)/(2*arg[0]).toFixed(3);
+        val1 = (-1*arg[1])/(2*arg[0]).toFixed(4);
+        val2 = (sqrt)/(2*arg[0]).toFixed(4);
         if (which == 1){
-            return val1.toFixed(3) + " + " + val2.toFixed(3) + "i";
+            return val1.toFixed(3) + " + " + val2.toFixed(4) + "i";
         }
         else{
-            return val1.toFixed(3) + " - " + val2.toFixed(3) + "i";
+            return val1.toFixed(3) + " - " + val2.toFixed(4) + "i";
         }
     }
 }
 
 
 
-function approximate(){
-    document.getElementById('solutions').style.visibility = "hidden";
-    var nums = get_nums();
+function approximate(nums){
     if (isNaN(nums[0]) || isNaN(nums[1]) || isNaN(nums[2])){
         var sol = nan_input(nums);
-        document.getElementById("solutions").innerHTML = sol;
+       postMessage(sol);
     }
     else if (nums[0] == 0){
         var sol = not_quad(nums);
-        document.getElementById("solutions").innerHTML = sol;
+        postMessage(sol);
     }
     else{
         sol1_string = approx_sol(nums, 1);
         sol2_string = approx_sol(nums, -1);
         if (sol1_string == sol2_string){
-            document.getElementById("solutions").innerHTML = "<br>Soluton: `x =" + sol1_string + "`";
+            postMessage("<br>Soluton: `x =" + sol1_string + "`");
         }
         else{
-            document.getElementById("solutions").innerHTML = "<br>Soluton 1: `x=" + sol1_string + "`" + "<br><br>Solution 2:   `x=" + sol2_string + "`";
+            postMessage("<br>Soluton 1: `x=" + sol1_string + "`" + "<br><br>Solution 2:   `x=" + sol2_string + "`");
         }
     }
 }
 
 onmessage = function(e) {
-    postMessage(quad_equation(e.data));
+    args = e.data.slice(0,3);
+    if (e.data[3] == 0){
+        postMessage(quad_equation(args));
+    }
+    else
+        postMessage(approximate(args));
 };

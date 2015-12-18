@@ -1,11 +1,27 @@
+.spinner {
+  margin: 0 auto;
+  height: 100px;
+  width: 100px;
+  animation: rotate 0.8s infinite linear;
+  border: 8px solid #fff;
+  border-right-color: transparent;
+  border-radius: 50%;
+  margin-top: 60px;
+}
+
+@keyframes rotate {
+  0%    { transform: rotate(0deg); }
+  100%  { transform: rotate(360deg); }
+}
+
 .loader{
-    position: fixed;
+    position: relative;
     z-index: 999;
-    height: 2em;
-    width: 2em;
-    overflow: show;
-    margin top: 200px;
-    margin: auto;
+    height: 5em;
+    width: 8em;
+    /*overflow: show;*/
+    float: right;
+    margin-top: 7em;
 }
 
 

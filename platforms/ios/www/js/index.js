@@ -1,5 +1,5 @@
 window.onload = function(){
-	//document.getElementById('loaderdiv').style.visibility = "hidden";
+	//createAnimation();
 }
 
 window.addEventListener('load', function() {
